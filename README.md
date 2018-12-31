@@ -1,7 +1,7 @@
 # Surfs-Up
 A SQL Alchemy Project for Hawaii weather
 
-![temphist](https://github.com/ejhagee/SQL-Projects/blob/master/Surfs_Up/Images/temphist.png)
+![temphist](https://github.com/ejhagee/Surfs-Up/blob/master/Images/temphist.png)
 
 ## Description
 This project investigates a fictional trip to Hawaii in January 2019.  It analyzes fictional weather data for Hawaii collected at various weather stations to predict typical weather during said trip.  This is done in the Jupyter notebook, while a Flask app is also created that allows data calls from a SQLite database using SQLAlchemy and Flask.
